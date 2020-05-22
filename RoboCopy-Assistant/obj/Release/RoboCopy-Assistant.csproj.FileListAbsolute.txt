@@ -1,0 +1,13 @@
+C:\Users\chomp\source\repos\RoboCopy-Assistant\RoboCopy-Assistant\bin\Release\RoboCopy-Assistant.exe.config
+C:\Users\chomp\source\repos\RoboCopy-Assistant\RoboCopy-Assistant\bin\Release\RoboCopy-Assistant.exe.manifest
+C:\Users\chomp\source\repos\RoboCopy-Assistant\RoboCopy-Assistant\bin\Release\RoboCopy-Assistant.application
+C:\Users\chomp\source\repos\RoboCopy-Assistant\RoboCopy-Assistant\bin\Release\RoboCopy-Assistant.exe
+C:\Users\chomp\source\repos\RoboCopy-Assistant\RoboCopy-Assistant\bin\Release\RoboCopy-Assistant.pdb
+C:\Users\chomp\source\repos\RoboCopy-Assistant\RoboCopy-Assistant\obj\Release\RoboCopy-Assistant.csprojAssemblyReference.cache
+C:\Users\chomp\source\repos\RoboCopy-Assistant\RoboCopy-Assistant\obj\Release\RoboCopy_Assistant.Form1.resources
+C:\Users\chomp\source\repos\RoboCopy-Assistant\RoboCopy-Assistant\obj\Release\RoboCopy_Assistant.Properties.Resources.resources
+C:\Users\chomp\source\repos\RoboCopy-Assistant\RoboCopy-Assistant\obj\Release\RoboCopy-Assistant.csproj.GenerateResource.cache
+C:\Users\chomp\source\repos\RoboCopy-Assistant\RoboCopy-Assistant\obj\Release\RoboCopy-Assistant.exe.manifest
+C:\Users\chomp\source\repos\RoboCopy-Assistant\RoboCopy-Assistant\obj\Release\RoboCopy-Assistant.application
+C:\Users\chomp\source\repos\RoboCopy-Assistant\RoboCopy-Assistant\obj\Release\RoboCopy-Assistant.exe
+C:\Users\chomp\source\repos\RoboCopy-Assistant\RoboCopy-Assistant\obj\Release\RoboCopy-Assistant.pdb
